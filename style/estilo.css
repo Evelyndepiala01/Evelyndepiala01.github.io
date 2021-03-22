@@ -4,7 +4,10 @@ html, body {
     font-family: 'Chango', cursive;
     font-family: 'Montserrat', sans-serif;
 }
-    
+
+.icones {
+  padding-bottom: 5rem;
+}
 header { 
     background-image: url(../imagens/paisagem.jpg);
     background-size: cover;
