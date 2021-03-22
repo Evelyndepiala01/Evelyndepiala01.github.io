@@ -13,14 +13,16 @@ header {
 }
 
 img {
-    width: 25vh;
-    height: 25vh;
+    width: 45vh;
+    height: 30vh;
 }
 
 .font {
     color: #4682B4;
     font-family: 'Pangolin', cursive;
 }
+
+
 
 #paineis-sobre {
     margin-top: 20px;
